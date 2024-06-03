@@ -119,9 +119,9 @@ plot(model4)
 
 ```
 
-Model Table Comparison
+Model Table Comparisons
 
-From the `MuMIn` package
+From the `MuMIn` package:
 
 ```{r}
 
@@ -167,7 +167,7 @@ print(ft)
 
 In order to examine drought tolerant plant species, a number of predictors were analyzed using a multiple linear regression model to compare how common plant predictors would influence the total plant biomass in grams. Multiple models were generated, with a null model that was created to predict no difference across all predictors, and a saturated model taking into account all predictors including water treatment, species type, and specific leaf area (SLA). After generating each model, the model that best described the total plant biomass's predicted outcome was the last simple model that had the predictors water treatment and species type. This model was the best describer of the data set because of its delta value of zero. It also has the lowest calculated AIC.
 
-## 1c) Visualization of Data Predictions for Best Fitted Model
+## 1c) Visualization of Data Predictions for the Best Fitted Model
 
 Create Model Prediction Data Frame
 
