@@ -1,6 +1,6 @@
 ---
 title: "Howard-Naomi-HW3"
-format: html
+format: docx
 editor: visual
 ---
 
@@ -235,18 +235,6 @@ From comparing four multiple linear regression models to analyze certain predict
 For my affective visualization with my personal data, I plan to compare the word count of my emails and classify my emails are formal or informal to observe if there is a signifcant difference in word count between the formal and informal emails I write. I will do this by making a heel for my formal data, and a sneaker for my informal data out of a bar graph showing the overall word count of each email classification
 
 ## 2b) Sketch of the idea
-
-```{r image-sketch}
-install.packages("png")
-library(png)
-
-# Read the image
-img <- readPNG("/Users/naomihoward/Downloads/github/howard-naomi_homework-03")
-
-# Display the image
-plot(1:2, type='n')
-rasterImage(img, 1, 1, 2, 2)
-```
 
 ## 2c) Draft of the idea
 
