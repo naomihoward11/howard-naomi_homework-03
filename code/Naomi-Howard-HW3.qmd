@@ -236,9 +236,18 @@ For my affective visualization with my personal data, I plan to compare the word
 
 ## 2b) Sketch of the idea
 
-```{r}
-![Figure][(AffectiveVisSketch.png)
+```{r image-sketch}
+install.packages("png")
+library(png)
+
+# Read the image
+img <- readPNG("/Users/naomihoward/Downloads/github/howard-naomi_homework-03")
+
+# Display the image
+plot(1:2, type='n')
+rasterImage(img, 1, 1, 2, 2)
 ```
+
 ## 2c) Draft of the idea
 
 ## 2d) Artist Statement
@@ -249,8 +258,16 @@ In my piece, I am showing that there is an overall higher word count in professi
 
 ## 3a) Revisit and Summarize
 
+Note: I changed my paper analysis to after Homework 2: Have jellyfish in the Irish Sea benefited from climate change and over fishing?
+
+The main statistical tests that they used to analyze the data include a log-linear regression model by taking the mean jellyfish catch weights, coefficients of variation, as well as the standard errors of the data collected. A linear regression model was most likely used because the authors wanted to explore mean jellyfish counts overtime, using time as a predictor for weight. The p-value and confidence interval were also included in the analysis (CI = 95%, p-value = 0.03) to demonstrate the significance of their results.
+
 ## 3b) Visual Clarity
 
+For visual clarity of the mean weight of jellyfish per haul from the early 1990's into the 2000's, the underlying data points, error bars, and linear regression lines were bolded over the overall data model trend to highlight the actual data. The y-axis label was also flipped sideways to save space, as well as to avoid overlap with the y-axis itself. Another element that provided visual clarity was the axis tick marks, as well as going up by exponential amounts to show a better scale and overview of the log-linear regression.
+
 ## 3c) Aesthetic Clarity
+
+A black and white minimalist theme was chosen to provide contrast and clarity, as well as to fit the overall font and color ink of the written portion of the article itself. To me, the data is the highlight of the figure, and the labels or more of a background, making the data to ink ratio quite high. Additionally, the
 
 ## 3d) Recommendations
