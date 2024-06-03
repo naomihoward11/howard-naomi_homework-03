@@ -268,6 +268,6 @@ For visual clarity of the mean weight of jellyfish per haul from the early 1990'
 
 ## 3c) Aesthetic Clarity
 
-A black and white minimalist theme was chosen to provide contrast and clarity, as well as to fit the overall font and color ink of the written portion of the article itself. To me, the data is the highlight of the figure, and the labels or more of a background, making the data to ink ratio quite high. Additionally, the
+A black and white minimalist theme was chosen to provide contrast and clarity, as well as to fit the overall font and color ink of the written portion of the article itself. To me, the data is the highlight of the figure, and the labels or more of a background, making the data to ink ratio quite high. Additionally, the labels on both axes were small, and same font size as the tick marks of the graph itself, so the graph itself was highlighted further.
 
 ## 3d) Recommendations
