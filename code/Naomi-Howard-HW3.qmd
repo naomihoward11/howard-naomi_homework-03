@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-# Link to personal repository:[Homework-3 Repository](https://github.com/naomihoward11/howard-naomi_homework-03)
+# Link to personal repository: [Homework-3 Repository](https://github.com/naomihoward11/howard-naomi_homework-03)
 
 # Reading in Packages
 
@@ -272,4 +272,4 @@ A black and white minimalist theme was chosen to provide contrast and clarity, a
 
 ## 3d) Recommendations
 
-f
+When looking at the figure, the first recommendation I have is to make the overall image area bigger, so the y-axis label "Mean Weight (g) of jellyfish per haul" can be horizontal instead, so the label is more easily readable. Then, I would add in an x- axis label that just said "Year" and the approximate range displayed (1990s - 2010s). Additionally I would add in the log-linear regression equation, just to emphasize that there is an overall increase in jellyfish weight. Something I would potentially take out are the error bars of the data points because it hides the overall trend of the graph. Instead, I would make a standard error figure separately for the statistical analysis portion of the paper instead.
